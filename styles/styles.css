@@ -119,3 +119,22 @@ button {
     padding-right: 100px;
     padding-bottom: 100px;
 }
+
+.part-four {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3882F6;
+    color: white;
+    margin: 64px 64px;
+    padding: 32px 128px;
+    border-radius: 5px;
+}
+
+.action {
+    font-size: 30px;
+}
+
+.white-border {
+    border: 2px solid white;
+}
